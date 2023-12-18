@@ -16,8 +16,8 @@ Il est importé dans le fichier maps.js (attention il faudra surement changer le
 
 
 
-Dérouler du jeux : 
+Déroulement du jeux : 
 Se rendre en Egypte, il y a trois objet:
-Cléopatre est situé a Alexandrie et debloquable grâce au papyrus situé a l'ouest de la ville, le code est 2002.
-La carrière de pierres situé a Suez se deploque grâce au gaulois qui sont situé en bretagne nord à Paimpol.
-une fois le jeu fini l'alerte apparait et il faut valider sont score pour revenir a l'accueil
+Cléopatre est située à Alexandrie et débloquable grâce au papyrus situé a l'ouest de la ville, le code est 2002.
+La carrière de pierres situé à Suez se débloque grâce aux gaulois qui sont situés en Bretagne nord à Paimpol.
+Une fois le jeu fini l'alerte apparait et il faut valider sont score pour revenir a l'accueil et enregistrer son score.

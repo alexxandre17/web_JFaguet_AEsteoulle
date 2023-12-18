@@ -1,0 +1,8 @@
+alex;1500
+jul;2100
+victor;8979
+paulo;3567
+bastien;3198
+lorine;2460
+clement;1968
+johan;10455

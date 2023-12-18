@@ -1,0 +1,4 @@
+car;Carrière de pierres;String;0101000020E6100000DB519CA38E444040AD4D637B2DF83D40;t;Village Gaulois;/img/CarrierePierre.jpg;Pour recuperer les pierres seul les irresistibles gaulois peuvent t'aider;7
+vg;Village Gaulois;String;0101000020E61000005884C8ED3C4908C0403EEC4CAD5E4840;f;\N;/img/LesGaulois.png;;10
+cleo;Cléopâtre;code;0101000020E6100000746F740226F43D4047F2EAF592353F40;t;Papyrus;/img/Cleopatre.jpg;<div><label for=codeInput>Entrez le code à 4 chiffres que le papyrus te fournis\; Idefix l'a égaré entre la carrière et le palais de Cléopâtre :</label><br action =><input id=code v-model=pass type=text  maxlength=4><br><button id=bt>Ok</button></div>;8
+pap;Papyrus;int;0101000020E6100000C389FF60954B3E400400A3F0B8263F40;\N;\N;/img/Papyrus.jpg;2002;13

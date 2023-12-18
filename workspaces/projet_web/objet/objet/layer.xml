@@ -1,0 +1,16 @@
+<layer>
+  <name>objet</name>
+  <id>LayerInfoImpl-6f17708f:18c7c163bb6:-7fd6</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-6f17708f:18c7c163bb6:-7fd7</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2023-12-18 09:18:42.256 UTC</dateCreated>
+</layer>

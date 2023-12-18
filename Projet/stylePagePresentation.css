@@ -1,0 +1,147 @@
+/* Ce qui va permettre d'utiliser la police */
+@font-face {
+    font-family: 'egyptien';
+    src: url('/police/GROBOLD.ttf') format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+header{
+    font-family: 'egyptien';
+    text-shadow: -2px -2px 0 #000000, 2px -2px 0 #000000, -2px 2px 0 #000000, 2px 2px 0 #000000; 
+    font-size: 30;
+    color: rgb(236, 202, 109);
+    text-align: center;
+    padding: 10px;
+    
+}
+
+
+body{
+    border-radius: 20px;
+    background-image: url('img/pyramides.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding : 10px ;
+}
+
+
+body #contenu{
+    border-radius: 20px;
+    display: grid;
+    grid-template-columns: 30% auto 30%;
+    grid-template-rows: 15em 10em 40em  ;
+}
+
+body #texte {
+    grid-column: 2;
+    vertical-align: bottom;
+    grid-row : 1 ;
+}
+
+p {
+    max-height: 150px;
+    font-family: 'egyptien';
+    background-color:rgb(236, 202, 109);
+    font-size: 15;
+    text-align: center;
+    vertical-align: bottom;
+    grid-row : 1 ;
+    border-radius: 20px;
+    padding: 3%;
+}
+
+body #formulaire {
+    border-radius: 50px;
+    font-family: 'egyptien';
+    background-color: rgb(236, 202, 109);
+    grid-column: 2; 
+    grid-row: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:10% ;
+    padding : 10%;
+    margin-bottom: 50%;
+    
+}
+
+.button-asterix {
+    font-family: 'egyptien';
+    text-shadow: -2px -2px 0 #000000, 2px -2px 0 #000000, -2px 2px 0 #000000, 2px 2px 0 #000000; 
+    font-size: 20;
+    color:  rgb(255, 255, 255);
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    background-color: #ffcc00; 
+    border: 2px solid #8b4513; 
+    border-radius: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    align-items: center;
+  }
+
+  .button-asterix:hover {
+    font-family: 'egyptien';
+    text-shadow: -2px -2px 0 #000000, 2px -2px 0 #000000, -2px 2px 0 #000000, 2px 2px 0 #000000; 
+    font-size: 30;
+    color: rgb(255, 255, 255);
+    background-color: #e5b800; 
+    align-items: center;
+  }
+
+#hallOfFame{
+    grid-column: 2; 
+    grid-row: 3;
+    border-radius: 20px;
+    background-color:rgb(236, 202, 109);
+    padding : 3%;
+    padding-bottom: 0%;
+}
+
+#hallOfFame table {
+    margin-bottom: 0%;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    background-color: #e5b800;
+}
+
+tr:nth-child {
+    background-color: #e5b800; 
+    text-align: center;
+}
+
+h1{
+    font-family: 'egyptien';
+    text-align: center;
+}
+
+#image{
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto; 
+    grid-column: 1;
+    margin-left: 5%;
+    grid-row: 1/2; 
+}
+
+#image2{
+    border-radius: 20px;
+    max-width: 100%;
+    height: auto; 
+    grid-column: 3;
+    margin-left: 35%;
+    grid-row: 1/2; 
+}

@@ -1,0 +1,34 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl-6f17708f:18c7c163bb6:-7fd4</id>
+  <name>triche</name>
+  <mode>SINGLE</mode>
+  <title>triche</title>
+  <abstractTxt>triche</abstractTxt>
+  <workspace>
+    <id>WorkspaceInfoImpl-6f17708f:18c7c163bb6:-7fda</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl-6f17708f:18c7c163bb6:-7fd6</id>
+    </published>
+    <published/>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl-6f17708f:18c7c163bb6:-7fd5</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>-3.035760743791382</minx>
+    <maxx>30.510939838502846</maxx>
+    <miny>31.151259460253655</miny>
+    <maxy>48.73966371093093</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+  <dateCreated>2023-12-18 09:21:09.703 UTC</dateCreated>
+</layerGroup>
